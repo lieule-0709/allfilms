@@ -82,7 +82,7 @@ const listEvent = [
   },
 ];
 
-const UserDetail = () => {
+const Home = () => {
 
   setInterval(() => {
     document.getElementsByClassName('awssld__next')[0].click();
@@ -563,4 +563,4 @@ const UserDetail = () => {
   );
 };
 
-export default UserDetail;
+export default Home;
